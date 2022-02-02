@@ -1,0 +1,21 @@
+body{
+    background-color: aliceblue;
+}
+
+.center{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    text-align: center;
+}
+
+.formDiv{
+    width: 18%;
+}
+
+.contactForm{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    text-align: center;
+}
